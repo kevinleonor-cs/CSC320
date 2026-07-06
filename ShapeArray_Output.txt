@@ -1,0 +1,55 @@
+===== Shape Array Output =====
+
+Sphere [radius=5.00]
+  Surface Area: 314.16
+  Volume: 523.60
+
+Cylinder [radius=3.00, height=7.00]
+  Surface Area: 188.50
+  Volume: 197.92
+
+Cone [radius=4.00, height=9.00]
+  Surface Area: 174.03
+  Volume: 150.80
+
+===== Test Case 1: Small Values =====
+
+Sphere [radius=1.00]
+  Surface Area: 12.57
+  Volume: 4.19
+
+Cylinder [radius=1.00, height=1.00]
+  Surface Area: 12.57
+  Volume: 3.14
+
+Cone [radius=1.00, height=1.00]
+  Surface Area: 7.58
+  Volume: 1.05
+
+===== Test Case 2: Large Values =====
+
+Sphere [radius=10.50]
+  Surface Area: 1385.44
+  Volume: 4849.05
+
+Cylinder [radius=6.20, height=15.80]
+  Surface Area: 857.03
+  Volume: 1908.05
+
+Cone [radius=8.00, height=12.00]
+  Surface Area: 563.53
+  Volume: 804.25
+
+===== Test Case 3: Decimal Values =====
+
+Sphere [radius=2.75]
+  Surface Area: 95.03
+  Volume: 87.11
+
+Cylinder [radius=4.50, height=3.25]
+  Surface Area: 219.13
+  Volume: 206.76
+
+Cone [radius=5.50, height=7.75]
+  Surface Area: 259.24
+  Volume: 245.50
